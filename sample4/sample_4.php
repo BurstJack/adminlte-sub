@@ -1,4 +1,4 @@
- <?php include "../inc/header1.php"; ?>
+<?php include "../inc/header1.php"; ?>
 
 <body class="hold-transition sidebar-mini">
 
