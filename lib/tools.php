@@ -12,8 +12,8 @@
                 </p>
             </a>
             <ul class="nav nav-treeview my-class-2">
-                <!-- sub item (0) -->
-                <!-- sub item (1) -->
+                <!-- li_item_sub(icon, title, url) -->
+                <!-- li_item_sub(icon, title, url) -->
             </ul>
         </li>
 
