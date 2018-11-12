@@ -1,1 +1,22 @@
- 
+  <!-- Navbar -->
+  <nav class="main-header navbar navbar-expand bg-white navbar-light border-bottom">
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
+      </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="../" class="nav-link">All Chains</a>
+      </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="../datatables/datatables_genesis.php" class="nav-link">Genesis</a>
+      </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="../datatables/datatables_unconfirmed.php" class="nav-link">Unconfirmed</a>
+      </li>
+      <li class="nav-item d-none d-sm-inline-block">
+        <a href="../wallet/wallet_blue.php?ticker=BJCK" class="nav-link">Wallet</a>
+      </li>
+    </ul>
+  </nav>
+  <!-- /.navbar -->
