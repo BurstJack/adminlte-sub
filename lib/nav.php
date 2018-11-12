@@ -7,7 +7,7 @@
      - nav_li_item_bottom_border(icon, title, url, arr)
      ******************************************************/
 
-     function nav_li_header($icon, $title, $url, $arr) {
+     function nav_li_header($icon, $title, $url) {
           ?>
 
           <li class="nav-item" style= "border-bottom: 1px solid #6d6d6d; margin-bottom: 10px; font-size:130%;">
