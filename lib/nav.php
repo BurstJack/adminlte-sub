@@ -26,13 +26,13 @@
     }
 
 
-    // ex: nav_li_item("fa fa-book", "title", "#")
+    // ex: nav_li_item_sub("fa fa-angle-double-right", "title", "#")
     function nav_li_item_sub($icon, $title, $url) {
         ?>   
         <li class="nav-item">
-            <a href="#" class="nav-link">
-                <i class="fa fa-angle-double-right my-class-1"></i>
-                <p>Dashboard v1</p>
+            <a href="<?php echo $url; ?>" class="nav-link">
+                <i class="<?php echo $icon; ?> my-class-1"></i>
+                <p><?php echo $title; ?></p>
             </a>
         </li>       
         ?>
