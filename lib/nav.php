@@ -27,4 +27,13 @@
         <?php
     }
 
+  <ul class="nav nav-treeview my-class-2">
+              <li class="nav-item">
+                <a href="#" class="nav-link">
+                  <i class="fa fa-angle-double-right my-class-1"></i>
+                  <p>Dashboard v1</p>
+                </a>
+              </li>
+             </ul>
+
 ?>
