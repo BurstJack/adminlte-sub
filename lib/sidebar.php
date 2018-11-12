@@ -18,8 +18,8 @@
             </a>
             <?php /****
             <ul class="nav nav-treeview my-class-2">
-                <!-- li_item_sub(icon, title, url) -->
-                <!-- li_item_sub(icon, title, url) -->
+                <!-- nav_li_item_sub(icon, title, url) -->
+                <!-- nav_li_item_sub(icon, title, url) -->
             </ul>
             ****/ ?>
         </li>
