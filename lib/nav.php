@@ -13,7 +13,7 @@
           <li class="nav-item" style= "border-bottom: 1px solid #6d6d6d; margin-bottom: 10px; font-size:130%;">
             <div class="hover-item">
             <a href="<?php echo $url; ?>" class="nav-link">
-              <i class="nav-icon <?php echo $icon; ?>"></i>
+              <i class="<?php echo $icon; ?>"></i>
               <span class="brand-text font-weight-light">
                   <b style="font-size:110%;"><?php echo $title; ?></b>
               </span>
@@ -29,7 +29,7 @@
 
         <li class="nav-item" style= "border-bottom: 1px solid #6d6d6d; margin-bottom: 10px;">
             <a href="<?php echo $url; ?>" class="nav-link">
-                <i class="nav-icon <?php echo $icon; ?>"></i>
+                <i class="<?php echo $icon; ?>"></i>
                 <p>
                    <?php echo $title; ?>
                    <?php if (is_array($arr)) { ?>
@@ -56,7 +56,7 @@
 
         <li class="nav-item">
             <a href="<?php echo $url; ?>" class="nav-link">
-                <i class="nav-icon <?php echo $icon; ?>"></i>
+                <i class="<?php echo $icon; ?>"></i>
                 <p>
                    <?php echo $title; ?>
                    <?php if (is_array($arr)) { ?>
