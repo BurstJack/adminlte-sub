@@ -1,4 +1,4 @@
-       <style>
+      <style>
             .my-class-1 { font-size:80%; margin-left: 30px; margin-right: 5px; margin-top:5px; }
             .my-class-2 { line-height:50%; }
       </style>
