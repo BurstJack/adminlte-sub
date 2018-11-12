@@ -1,5 +1,10 @@
 <?php 
 
+    /***********************************
+     - nav_li_item(icon, title, irl)
+     - nav_li_item_sub(icon, title, url)
+     ***********************************/
+
     // ex: nav_li_item("fa fa-book", "title", "#")
     function nav_li_item($icon, $title, $url) {
         ?>
@@ -11,10 +16,12 @@
                    <?php echo $title; ?>
                 </p>
             </a>
+            <?php /****
             <ul class="nav nav-treeview my-class-2">
                 <!-- li_item_sub(icon, title, url) -->
                 <!-- li_item_sub(icon, title, url) -->
             </ul>
+            ****/ ?>
         </li>
 
         <?php
