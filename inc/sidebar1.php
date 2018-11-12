@@ -6,5 +6,3 @@
     </div>
 </aside>
 
-
-<?php include "burst1.php"; ?>
