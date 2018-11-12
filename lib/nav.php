@@ -27,13 +27,19 @@
         <?php
     }
 
-  <ul class="nav nav-treeview my-class-2">
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="fa fa-angle-double-right my-class-1"></i>
-                  <p>Dashboard v1</p>
-                </a>
-              </li>
-             </ul>
+
+    // ex: nav_li_item("fa fa-book", "title", "#")
+    function nav_li_item_sub($icon, $title, $url) {
+        ?>
+     
+        <li class="nav-item">
+            <a href="#" class="nav-link">
+                <i class="fa fa-angle-double-right my-class-1"></i>
+                <p>Dashboard v1</p>
+            </a>
+        </li>
+        
+        ?>
+     }
 
 ?>
