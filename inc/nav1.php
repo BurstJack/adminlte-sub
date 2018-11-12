@@ -34,8 +34,8 @@
 
       <nav class="mt-2">
           <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-              <?php nav_li_header("fa fa-book", "title1", "#", ""); ?>
-              <?php nav_li_item("fa fa-book", "title1", "#", ""); ?>
+              <?php nav_li_header("nav-icon fa fa-book", "title1", "#", ""); ?>
+              <?php nav_li_item("nav-icon fa fa-book", "title1", "#", ""); ?>
               <?php nav_li_item("nav-icon fa fa-th", "title2", "#", ""); ?>
               <?php nav_li_item("nav-icon fa fa-th", "title3", "#", $res2); ?>
               <?php nav_li_item_bottom_border("nav-icon fa fa-th", "title4", "#", ""); ?>
