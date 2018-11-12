@@ -1,4 +1,4 @@
-  <!-- Navbar -->
+   <!-- Navbar -->
   <nav class="main-header navbar navbar-expand bg-white navbar-light border-bottom">
     <!-- Left navbar links -->
     <ul class="navbar-nav">
@@ -6,16 +6,16 @@
         <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="../" class="nav-link">All Chains</a>
+        <a href="../sample1/sample_1.php" class="nav-link">Sample 1</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="../datatables/datatables_genesis.php" class="nav-link">Genesis</a>
+        <a href="../sample2/sample_2.php" class="nav-link">Sample 2</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="../datatables/datatables_unconfirmed.php" class="nav-link">Unconfirmed</a>
+        <a href="../sample3/sample_3.php" class="nav-link">Sample 3</a>
       </li>
       <li class="nav-item d-none d-sm-inline-block">
-        <a href="../wallet/wallet_blue.php?ticker=BJCK" class="nav-link">Wallet</a>
+        <a href="../sample4/sample_4.php" class="nav-link">Sample 4</a>
       </li>
     </ul>
   </nav>
