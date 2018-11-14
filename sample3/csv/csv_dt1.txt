@@ -15,18 +15,17 @@
       "500000"
     
     
-      "id": "0004",
-      "ticker": "TRIG",
-      "creator": "17117504363755369779",
-      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
-      "genesisFee": "16299923370880531211",
-      "genesisMsg": "17300853476896203341",
-      "genesisStr": "TRIG@genesis@500000",
-      "unixTime": "122843840",
-      "timestamp": "2018-07-02 23:17:20",
+      "id": "0004";
+      "ticker": "TRIG";
+      "creator": "17117504363755369779";
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V";
+      "genesisFee": "16299923370880531211";
+      "genesisMsg": "17300853476896203341";
+      "genesisStr": "TRIG@genesis@500000";
+      "unixTime": "122843840";
+      "timestamp": "2018-07-02 23:17:20"
       "amount": "500000"
-    },
-    {
+    
       "id": "0005",
       "ticker": "LOCK",
       "creator": "17117504363755369779",
