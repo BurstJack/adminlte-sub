@@ -43,56 +43,56 @@
       "500000"
     
 
-      "id": "0009",
-      "ticker": "PROM",
-      "creator": "17117504363755369779",
-      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
-      "genesisFee": "559314748695266233",
-      "genesisMsg": "5408126063143956597",
-      "genesisStr": "PROM@genesis@500000",
-      "unixTime": "129295265",
-      "timestamp": "2018-09-15 15:21:05",
+      "0009";
+      "PROM";
+      "creator": "17117504363755369779";
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V";
+      "genesisFee": "559314748695266233";
+      "genesisMsg": "5408126063143956597";
+      "genesisStr": "PROM@genesis@500000";
+      "unixTime": "129295265";
+      "timestamp": "2018-09-15 15:21:05";
       "amount": "500000"
-    },
+    
 
-{
-      "id": "0010",
-      "ticker": "SNIP",
-      "creator": "17117504363755369779",
-      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
-      "genesisFee": "9730558927574826298",
-      "genesisMsg": "6071446530223482659",
-      "genesisStr": "SNIP@genesis@500000",
-      "unixTime": "129533337",
-      "timestamp": "2018-09-18 09:49:35",
-      "amount": "500000"
-    },
 
-{
-      "id": "0011",
-      "ticker": "NIX",
-      "creator": "10268544688875950721",
-      "creatorRS": "TNN3-ZP8C-5D32-ALB2X",
-      "genesisFee": "6564846129461839348",
-      "genesisMsg": "17320517098148025757",
-      "genesisStr": "NIX@genesis@500000",
-      "unixTime": "129842566",
-      "timestamp": "2018-09-21 23:22:46",
+      "id": "0010";
+      "ticker": "SNIP";
+      "creator": "17117504363755369779";
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V";
+      "genesisFee": "9730558927574826298";
+      "genesisMsg": "6071446530223482659";
+      "genesisStr": "SNIP@genesis@500000";
+      "unixTime": "129533337";
+      "timestamp": "2018-09-18 09:49:35";
       "amount": "500000"
-    },
+    
 
-{
-      "id": "0012",
-      "ticker": "FEYD",
-      "creator": "15658436266575756999",
-      "creatorRS": "GZQ9-UC9P-XDBC-FJHML",
-      "genesisFee": "2485724806232038727",
-      "genesisMsg": "17693173524354785966",
-      "genesisStr": "FEYD@genesis@500000",
-      "unixTime": "130010901",
-      "timestamp": "2018-09-23 22:08:21",
+
+      "id": "0011";
+      "ticker": "NIX";
+      "creator": "10268544688875950721";
+      "creatorRS": "TNN3-ZP8C-5D32-ALB2X";
+      "genesisFee": "6564846129461839348";
+      "genesisMsg": "17320517098148025757";
+      "genesisStr": "NIX@genesis@500000";
+      "unixTime": "129842566";
+      "timestamp": "2018-09-21 23:22:46";
       "amount": "500000"
-    }
+    
+
+
+      "id": "0012";
+      "ticker": "FEYD";
+      "creator": "15658436266575756999";
+      "creatorRS": "GZQ9-UC9P-XDBC-FJHML";
+      "genesisFee": "2485724806232038727";
+      "genesisMsg": "17693173524354785966";
+      "genesisStr": "FEYD@genesis@500000";
+      "unixTime": "130010901";
+      "timestamp": "2018-09-23 22:08:21";
+      "amount": "500000"
+    
    
-  ]
-}
+  
+
