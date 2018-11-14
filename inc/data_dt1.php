@@ -59,7 +59,7 @@ $(document).ready(function() {
     var table = $('#example').DataTable( {
       "lengthMenu": [ 5, 10, 25, 50 ],
       "pageLength": 10,
-        "ajax": "ajax/objects_genesis.txt",
+        "ajax": "ajax/objects_dt1.txt",
         "columns": [
             {
                 "className":      'details-control',
