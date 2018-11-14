@@ -1,14 +1,4 @@
-
-      "id";
-      "ticker";
-      "creator";
-      "creatorRS";
-      "genesisMsg";
-      "genesisFee";
-      "genesisStr";
-      "unixTime";
-      "timestamp";
-      "amount";
+"id";"ticker";"creator";"creatorRS";"genesisMsg";"genesisFee";"genesisStr";"unixTime";"timestamp";"amount"
       
     },
 
