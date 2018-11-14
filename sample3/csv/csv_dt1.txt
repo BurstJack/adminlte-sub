@@ -1,14 +1,15 @@
 
-      "id": "0000",
-      "ticker": "BJCK",
-      "creator": "421020816233693485",
-      "creatorRS": "H2BF-8GKC-9AVR-26YPD", 
-      "genesisMsg": "7296734206182949475",
-      "genesisFee": "14500364889367559496", 
-      "genesisStr": "BJCK@genesis@500000",
-      "unixTime": "120508372",
-      "timestamp": "2018-06-05 22:32:52", 
-      "amount": "500000"
+      "id";
+      "ticker";
+      "creator";
+      "creatorRS";
+      "genesisMsg";
+      "genesisFee";
+      "genesisStr";
+      "unixTime";
+      "timestamp";
+      "amount";
+      
     },
 
       "id": "0000",
