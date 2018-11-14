@@ -5,7 +5,7 @@
 <body class="hold-transition sidebar-mini">
 
 <div class="wrapper">
-    <?php include "../inc/sidebar1.php"; ?>
+    <?php include "../inc/sidebar3.php"; ?>
 
     <div class="content-wrapper">
         <section class="content">
