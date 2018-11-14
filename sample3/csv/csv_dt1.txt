@@ -1,1 +1,174 @@
 
+      "id": "0000",
+      "ticker": "BJCK",
+      "creator": "421020816233693485",
+      "creatorRS": "H2BF-8GKC-9AVR-26YPD", 
+      "genesisMsg": "7296734206182949475",
+      "genesisFee": "14500364889367559496", 
+      "genesisStr": "BJCK@genesis@500000",
+      "unixTime": "120508372",
+      "timestamp": "2018-06-05 22:32:52", 
+      "amount": "500000"
+    },
+
+      "id": "0000",
+      "ticker": "BJCK",
+      "creator": "421020816233693485",
+      "creatorRS": "H2BF-8GKC-9AVR-26YPD", 
+      "genesisMsg": "7296734206182949475",
+      "genesisFee": "14500364889367559496", 
+      "genesisStr": "BJCK@genesis@500000",
+      "unixTime": "120508372",
+      "timestamp": "2018-06-05 22:32:52", 
+      "amount": "500000"
+    },
+    {
+      "id": "0001",
+      "ticker": "GAS",
+      "creator": "421020816233693485",
+      "creatorRS": "H2BF-8GKC-9AVR-26YPD",
+      "genesisFee": "12856816222355758068",
+      "genesisMsg": "1659282539837538244",
+      "genesisStr": "GAS@genesis@500000",
+      "unixTime": "120510772",
+      "timestamp": "2018-06-05 23:12:52",
+      "amount": "500000"
+    },
+    {
+      "id": "0002",
+      "ticker": "ESC",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "17437393229563002419",
+      "genesisMsg": "16394163024189781199",
+      "genesisStr": "ESC@genesis@500000",
+      "unixTime": "120545389",
+      "timestamp": "2018-06-06 08:49:49",
+      "amount": "250000"
+    },
+    {
+      "id": "0003",
+      "ticker": "EXCH",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "1710410242141160078",
+      "genesisMsg": "16520754532187199166",
+      "genesisStr": "EXCH@genesis@500000",
+      "unixTime": "122821261",
+      "timestamp": "2018-07-02 17:01:01",
+      "amount": "500000"
+    },
+    {
+      "id": "0004",
+      "ticker": "TRIG",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "16299923370880531211",
+      "genesisMsg": "17300853476896203341",
+      "genesisStr": "TRIG@genesis@500000",
+      "unixTime": "122843840",
+      "timestamp": "2018-07-02 23:17:20",
+      "amount": "500000"
+    },
+    {
+      "id": "0005",
+      "ticker": "LOCK",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "7827603195607721048",
+      "genesisMsg": "6932633707252326514",
+      "genesisStr": "LOCK@genesis@500000",
+      "unixTime": "123332323",
+      "timestamp": "2018-07-08 14:58:43",
+      "amount": "500000"
+    },
+   {
+      "id": "0006",
+      "ticker": "GAME",
+      "creator": "4780662469349560186",
+      "creatorRS": "YMVU-7ZCB-LZ2H-6M4Q6",
+      "genesisFee": "134678695472296613",
+      "genesisMsg": "18212304900479059124",
+      "genesisStr": "GAME@genesis@500000",
+      "unixTime": "123524592",
+      "timestamp": "2018-07-10 20:23:12",
+      "amount": "500000"
+    },
+   {
+      "id": "0007",
+      "ticker": "ATS",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "5640386589520359339",
+      "genesisMsg": "11032644388693671917",
+      "genesisStr": "ATS@genesis@500000",
+      "unixTime": "123865059",
+      "timestamp": "2018-07-14 18:57:39",
+      "amount": "500000"
+    },
+{
+      "id": "0008",
+      "ticker": "TEST",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "4252694935438616999",
+      "genesisMsg": "13261827640247686074",
+      "genesisStr": "TEST@genesis@500000",
+      "unixTime": "124532320",
+      "timestamp": "2018-07-22 12:18:40",
+      "amount": "500000"
+    },
+{
+      "id": "0009",
+      "ticker": "PROM",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "559314748695266233",
+      "genesisMsg": "5408126063143956597",
+      "genesisStr": "PROM@genesis@500000",
+      "unixTime": "129295265",
+      "timestamp": "2018-09-15 15:21:05",
+      "amount": "500000"
+    },
+
+{
+      "id": "0010",
+      "ticker": "SNIP",
+      "creator": "17117504363755369779",
+      "creatorRS": "EXBM-JV3F-SDNE-GRE5V",
+      "genesisFee": "9730558927574826298",
+      "genesisMsg": "6071446530223482659",
+      "genesisStr": "SNIP@genesis@500000",
+      "unixTime": "129533337",
+      "timestamp": "2018-09-18 09:49:35",
+      "amount": "500000"
+    },
+
+{
+      "id": "0011",
+      "ticker": "NIX",
+      "creator": "10268544688875950721",
+      "creatorRS": "TNN3-ZP8C-5D32-ALB2X",
+      "genesisFee": "6564846129461839348",
+      "genesisMsg": "17320517098148025757",
+      "genesisStr": "NIX@genesis@500000",
+      "unixTime": "129842566",
+      "timestamp": "2018-09-21 23:22:46",
+      "amount": "500000"
+    },
+
+{
+      "id": "0012",
+      "ticker": "FEYD",
+      "creator": "15658436266575756999",
+      "creatorRS": "GZQ9-UC9P-XDBC-FJHML",
+      "genesisFee": "2485724806232038727",
+      "genesisMsg": "17693173524354785966",
+      "genesisStr": "FEYD@genesis@500000",
+      "unixTime": "130010901",
+      "timestamp": "2018-09-23 22:08:21",
+      "amount": "500000"
+    }
+   
+  ]
+}
