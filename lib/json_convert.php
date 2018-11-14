@@ -18,8 +18,7 @@
                 $combine = array_combine($keys, $values);
                 $res[] = $combine;
             }
-        }
-        
+        }        
         return $res;
     }
     
