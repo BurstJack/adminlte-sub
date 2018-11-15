@@ -4,6 +4,12 @@
         echo $str . "<br>";
     }
 
+    function trim_last($arr) {
+        if (trim($arr[count($arr)-1]) ===  "") 
+            { unset($arr[count($arr)-1]); }
+        return $arr;
+    }
+
     function pretty_print_r($arr) {
         echo "<pre>";
         print_r($arr);
