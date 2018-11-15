@@ -1,5 +1,15 @@
 <?php
 
+    function println($str) {
+        echo $str . "<br>";
+    }
+
+    function println($arr) {
+        echo "<pre>";
+        print_r($arr);
+        echo "</pre>"
+    }
+
     function arr_json($arr) {
     }
     
@@ -22,6 +32,4 @@
         return $res;
     }
     
-    
-
 ?>
