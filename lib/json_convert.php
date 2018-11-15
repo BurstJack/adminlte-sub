@@ -4,7 +4,7 @@
         echo $str . "<br>";
     }
 
-    function println($arr) {
+    function pretty_print_r($arr) {
         echo "<pre>";
         print_r($arr);
         echo "</pre>";
