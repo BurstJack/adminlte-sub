@@ -7,7 +7,7 @@
     function println($arr) {
         echo "<pre>";
         print_r($arr);
-        echo "</pre>"
+        echo "</pre>";
     }
 
     function arr_json($arr) {
